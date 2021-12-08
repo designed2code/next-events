@@ -1,9 +1,0 @@
-import {useRouter} from 'next/router'
-const PortfolioProjectPage = () => {
-    const router = useRouter()
-    console.log(router.query);
-    return(
-        <h1>Portfolio Project Page</h1>
-    )
-}
-export default PortfolioProjectPage
