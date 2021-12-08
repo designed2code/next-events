@@ -1,6 +1,6 @@
 # Next JS Events App
 
-This project is based on Next JS routing, which 
+This project is based on Next JS routing
 
 # Files and Folders
 Components :- 
